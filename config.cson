@@ -5,6 +5,8 @@
       "one-dark-ui"
       "solarized-dark-syntax"
     ]
+  editor:
+    fontFamily: "JetbrainsMono Nerd Font"
   "exception-reporting":
     userId: "69da41b0-5168-4744-836b-afb8e367400d"
   "one-dark-ui": {}
