@@ -1,5 +1,4 @@
-'.platform-linux':
-    'ctrl-alt-s': 'application:show-settings'
+'.platform-win32, .platform-linux':
     'ctrl-p': 'tree-view:toggle'
 
 '.workspace':
@@ -7,7 +6,7 @@
     'ctrl-g': 'github:toggle-git-tab'
     'alt-g': 'github:toggle-git-tab'
 
-'atom-workspace':
+'atom-workspace atom-text-editor:not([mini])':
     'ctrl-:': 'editor:toggle-line-comments'
     'ctrl-shift-up': 'editor:move-line-up'
     'ctrl-shift-down': 'editor:move-line-down'
@@ -21,6 +20,7 @@
     'ctrl-²': 'editor:delete-line'
 
 'body':
+    'ctrl-alt-s': 'application:show-settings'
     'ctrl-alt-w': 'pane:close-other-items'
     'ctrl-&': 'pane:show-item-1'
     'ctrl-é': 'pane:show-item-2'
