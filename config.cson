@@ -9,6 +9,7 @@
     defaultFontSize: 13
     fontFamily: "Jetbrains Mono NL"
     fontSize: 13
+    softWrap: true
   "exception-reporting":
     userId: "69da41b0-5168-4744-836b-afb8e367400d"
   "one-dark-ui": {}
