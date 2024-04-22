@@ -1,5 +1,5 @@
 '.platform-win32, .platform-linux':
-    'ctrl-p': 'tree-view:toggle'
+    'alt-p': 'tree-view:toggle'
 
 '.workspace':
     'ctrl-shift-u': 'github:fetch'
